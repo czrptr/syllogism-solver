@@ -1,0 +1,7 @@
+5
+All mammals are mortal.
+All humans are mammals.
+All males are human.
+All females are human.
+Cezar is a male.
+Cezar is a mortal.
